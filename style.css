@@ -1,0 +1,48 @@
+body
+{
+    
+        font-family: 'Merriweather', serif;
+    
+}
+.up{
+    text-align: center;
+    background-color: aquamarine;
+    height: 620px;
+
+}
+h1
+{
+    color: darkslateblue ;
+    font-family: 'Sacramento', cursive;
+    font-size:xx-large;
+}
+h2,h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.center
+{
+    text-align: center;
+    background-color :thistle;
+    height: 400px;
+}
+hr
+{
+    border: 1px;
+    border-style: inset;
+}
+.down
+{
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: -8px;
+    height: 120px;
+}
+.footer
+{
+    background-color: lightskyblue;
+    text-align: center;
+    margin-top: -10px;
+    height: 60px;
+    margin-bottom: 0px;
+}
